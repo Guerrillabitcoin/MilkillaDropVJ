@@ -20,7 +20,7 @@ Solo `README.md` y `MilkillaDropVJ.csproj` (WPF, `net8.0-windows`, `NAudio` 2.2.
 
 - Una rama por fase o hito (por ejemplo `feature/hito1-beatdrop-spout`), no una rama permanente del bot.
 - Nunca directo a `main`; a `main` solo con autorización del dueño.
-- Siempre `fetch` antes de empezar; nunca `force-push`. Autor de los commits: `GUERRILLA <guerrilla@users.noreply.github.com>`.
+- Siempre `fetch` antes de empezar; nunca `force-push`. Autor de los commits: `GUERRILLA <115675632+Guerrillabitcoin@users.noreply.github.com>`, el que ya usa este repo (el noreply de GitHub enlazado a la cuenta).
 - Sin nombre real ni email personal. Secretos y claves nunca en el repo.
 
 ## Comprobar
