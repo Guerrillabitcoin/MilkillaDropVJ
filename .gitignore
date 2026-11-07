@@ -1,0 +1,16 @@
+# .NET y Visual Studio
+bin/
+obj/
+.vs/
+*.user
+
+# Secretos y claves locales: nunca en el repo
+.env
+.env.*
+*.env
+*.pfx
+*.key
+*.pem
+
+# Ajustes locales de Claude Code (de cada PC, no se suben)
+.claude/settings.local.json
